@@ -9,5 +9,5 @@
 - 🌱 I’m currently learning as much as I possibly can about ES6+ Javascript, and React, but spending some time learning Clojure as well as database models like GraphQL.
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=meta-434&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![Alex's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meta-434&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Alex's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meta-434&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 [![Alex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meta434&theme=nord&v=2)](https://github.com/anuraghazra/github-readme-stats)
