@@ -8,4 +8,3 @@
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=meta-434&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 [![Alex's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meta-434&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![Alex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meta434&theme=nord&v=2)](https://github.com/anuraghazra/github-readme-stats)
