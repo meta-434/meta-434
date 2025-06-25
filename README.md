@@ -1,8 +1,9 @@
 ### Hi there 👋 I'm Alex.
 
- - 🔭 I’m currently working on a React application for a Solar Company. The tech stack includes:
+ - 🔭 I’m a full-stack developer with experience in:
 	 - PostgreSQL + GraphQL (via a containerized instance of Hasura in AWS) for data storage
-	 - Node + Express.js for back-end servers
+	 - Stand-alone Node scripts including fs manipulation, event handling, logging, and safe error boundaries
+         - Express.js for back-end servers
 	 - React.js + Material UI / Styled Components for client
 - 🌱 I’m currently learning as much as I possibly can about ES6+ Javascript, and React, as well as levelling up my JS by moving personal projects to TypeScript.
 
